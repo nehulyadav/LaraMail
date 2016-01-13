@@ -6,5 +6,5 @@ input[type=submit]:hover{background:pink}
 input[type=reset]:hover{background:pink}
 textarea:hover{background:yellow}
 input[type=submit]{width:120px;height:30px}
-input[type=reset]{width:100px;height:30px}/* CSS Document */
+input[type=reset]{width:100px;height:30px}
 
