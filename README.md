@@ -3,7 +3,7 @@ A powerful mail service capable of integrating with SMTP protocol and providing 
 
 It is a full fledged mail service that implements a filesystem in a web application to authorise the email client with an account in order to perform all mail operations such as:
 
-*Compose an email
+*Compose an email <br>
 *Send an email
 *Receive an email
 *Saving an email in the form of draft
