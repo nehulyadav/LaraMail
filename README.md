@@ -1,7 +1,7 @@
 # LaraMail
-A powerful mail service capable of integrating with SMTP protocol and providing authentication over SSL and TLS to protect system resources
+<caption><h1>A powerful mail service capable of integrating with SMTP protocol and providing authentication over SSL and TLS to protect system resources</h1></caption>
 
-It is a full fledged mail service that implements a filesystem in a web application to authorise the email client with an account in order to perform all mail operations such as:
+LaraMail is a full fledged mail service that implements a filesystem in a web application to authorise the email client with an account in order to perform all mail operations such as:
 
 *Compose an email <br>
 *Send an email
