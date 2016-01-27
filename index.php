@@ -45,8 +45,7 @@ a:hover{color:#FFFF00;background:#000000}
   <li>Saving an email in the form of draft</li>
   <li>Showing the detail of the received mail</li>
   <li>Saving the email ids in contact list</li>
-  <li>Secured by password </li>
-  <li>Recovery of the password </li>
+  <li>Recovery by password </li>
   <li>Can send alternative plaintext version of email for non-HTML email client
 </ul>
 
